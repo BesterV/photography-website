@@ -19,7 +19,7 @@ img {
 .menu-block-mobile {
     padding-left: 1rem;
     color: #000;
-    height: 120px;
+    height: 150px;
     overflow: hidden;
     transition: height 0.5s;
 }
